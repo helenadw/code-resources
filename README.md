@@ -7,7 +7,7 @@
 
 [fCC Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) - 🆓
 
-[Scrimba The Frontend Developer Career Path](https://scrimba.com/learn/frontend) 💳
+[Scrimba The Frontend Developer Career Path](https://scrimba.com/learn/frontend) - 💳
 
 ## Computer Science
 [Open Source Society University](https://github.com/ossu/computer-science) - 🆓 💳
