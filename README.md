@@ -1,5 +1,14 @@
 # Code Resources
 
+## Development
+[fCC JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+[fCC Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+[fCC Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+
+[Scrimba The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
+
 ## Computer Science
 [Open Source Society University](https://github.com/ossu/computer-science)
 
