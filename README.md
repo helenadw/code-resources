@@ -1,5 +1,7 @@
 # Code Resources
 
+A selection of resources that were helpful when I was learning to code, and now as I learn different technologies. Will update from time to time.
+
 ## Development
 [fCC JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - 🆓
 
