@@ -11,6 +11,10 @@ A selection of resources that were helpful when I was learning to code, and now 
 
 [Scrimba The Frontend Developer Career Path](https://scrimba.com/learn/frontend) - 💳
 
+[How to GraphQL](https://www.howtographql.com) - 🆓
+
+[Full Stack Open](https://fullstackopen.com/en/) - 🆓
+
 ## Computer Science
 [Open Source Society University](https://github.com/ossu/computer-science) - 🆓 💳
 
