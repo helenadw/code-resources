@@ -27,3 +27,6 @@ A selection of resources that were helpful when I was learning to code, and now 
 [Tech Interview Handbook](https://www.techinterviewhandbook.org) - 🆓
 
 [NeetCode](https://www.youtube.com/c/NeetCode) - 🆓
+
+## Technical Writing
+[Google Technical Writing](https://developers.google.com/tech-writing) - 🆓
